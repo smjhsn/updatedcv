@@ -56,14 +56,14 @@ p{
 .cloud-1{
     width: 250px;
     position: absolute;
-    right: 260px;
+    right: 150px;
     top: 50px;
 }
 .cloud-2{
     width: 250px;
     position: absolute;
-    left: 260px;
-    top: 200px;
+    left: 150px;
+    top: 300px;
 
 }
 .mountain-1{
